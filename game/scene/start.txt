@@ -1,0 +1,15 @@
+changeBG_next:0000.png
+bgm:none;
+Warning: There are erotic voices behind, please don't play in other people's venues;
+경고: 뒤에 성적인 목소리가 있습니다, 다른 사람의 장소에서 재생하지 마십시오;
+changeBG:u035415ntitled.jpg
+;
+小乔:vocal-V1.ogg,你来得真早。;
+vocal-hyuyin.wav,;
+changeBG:xiao0qiaountitled.jpg
+각종 음란물;
+디스플레이 완료;
+;
+;
+changeScene:a场景一.txt;
+changeBG:
